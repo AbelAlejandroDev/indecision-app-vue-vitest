@@ -2,4 +2,4 @@
 
 Este repositorio contiene el proyecto de indecision
 
-Preview :[Link]("")
+Preview :[Link]("https://yes-no-maybe-app.netlify.app/")
